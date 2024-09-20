@@ -1,0 +1,21 @@
+langchain==0.2.11
+streamlit==1.37.0
+transformers==4.43.2
+torch==2.4.0
+einops==0.8.0
+bitsandbytes==0.43.2
+accelerate==0.33.0
+pdfminer.six==20240706
+bs4==0.0.2
+sentence_transformers
+duckdb==1.0.0
+chromadb==0.5.5
+beautifulsoup4==4.12.3
+sentence-transformers==3.0.1
+sentencepiece==0.2.0
+six==1.16.0
+requests== 2.32.3
+uvicorn==0.30.3
+torch== 2.4.0
+torchvision==0.19.0
+streamlit-chat
